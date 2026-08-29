@@ -1,0 +1,18 @@
+{
+  "short_name": "MedIadhere AI",
+  "name": "MEDIADHERE AI — Intelligent Medication Adherence Platform",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#050608",
+  "theme_color": "#38BDF8",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Patient medication reminder and genuine PyTorch adherence monitoring platform."
+}

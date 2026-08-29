@@ -1,0 +1,31 @@
+# Node & Frontend dependencies and build outputs
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Python & Backend virtual environments and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+backend/venv/
+backend/.venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/app/api/__pycache__/
+backend/app/services/__pycache__/
+backend/ml/__pycache__/
+backend/tests/__pycache__/
+hf-model-service/__pycache__/
+
+# Environment and sensitive credential files
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Operating System & IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
